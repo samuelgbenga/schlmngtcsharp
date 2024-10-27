@@ -1,0 +1,2 @@
+
+namespace myschoolmngapp.Controllers;
