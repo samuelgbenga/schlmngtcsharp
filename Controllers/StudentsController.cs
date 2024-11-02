@@ -6,7 +6,7 @@ using myschoolmngapp.Data;
 namespace myschoolmngapp.Controllers;
 
 [Authorize]
-public class StudentController(SchoolMngDBContext context) : Controller
+public class StudentsController(SchoolMngDBContext context) : Controller
 {
 
     private readonly SchoolMngDBContext _context = context;

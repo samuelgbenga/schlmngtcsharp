@@ -7,11 +7,11 @@ using myschoolmngapp.Data;
 namespace myschoolmngapp.Controllers;
 
 [Authorize]
-public class LecturesController: Controller
+public class LecturersController: Controller
 {
 
     private readonly SchoolMngDBContext _context;
-    public LecturesController(SchoolMngDBContext context){
+    public LecturersController(SchoolMngDBContext context){
         _context = context;
     }
 
