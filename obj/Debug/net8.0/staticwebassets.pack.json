@@ -13,6 +13,54 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/apple/csharpprojects/myschoolmngapp/wwwroot/images/about.txt",
+      "PackagePath": "staticwebassets/images/about.txt"
+    },
+    {
+      "Id": "/Users/apple/csharpprojects/myschoolmngapp/wwwroot/images/android-chrome-192x192.png",
+      "PackagePath": "staticwebassets/images/android-chrome-192x192.png"
+    },
+    {
+      "Id": "/Users/apple/csharpprojects/myschoolmngapp/wwwroot/images/android-chrome-512x512.png",
+      "PackagePath": "staticwebassets/images/android-chrome-512x512.png"
+    },
+    {
+      "Id": "/Users/apple/csharpprojects/myschoolmngapp/wwwroot/images/apple-touch-icon.png",
+      "PackagePath": "staticwebassets/images/apple-touch-icon.png"
+    },
+    {
+      "Id": "/Users/apple/csharpprojects/myschoolmngapp/wwwroot/images/favicon-16x16.png",
+      "PackagePath": "staticwebassets/images/favicon-16x16.png"
+    },
+    {
+      "Id": "/Users/apple/csharpprojects/myschoolmngapp/wwwroot/images/favicon-32x32.png",
+      "PackagePath": "staticwebassets/images/favicon-32x32.png"
+    },
+    {
+      "Id": "/Users/apple/csharpprojects/myschoolmngapp/wwwroot/images/favicon.ico",
+      "PackagePath": "staticwebassets/images/favicon.ico"
+    },
+    {
+      "Id": "/Users/apple/csharpprojects/myschoolmngapp/wwwroot/images/mng1.jpg",
+      "PackagePath": "staticwebassets/images/mng1.jpg"
+    },
+    {
+      "Id": "/Users/apple/csharpprojects/myschoolmngapp/wwwroot/images/mng2.jpg",
+      "PackagePath": "staticwebassets/images/mng2.jpg"
+    },
+    {
+      "Id": "/Users/apple/csharpprojects/myschoolmngapp/wwwroot/images/school1.jpg",
+      "PackagePath": "staticwebassets/images/school1.jpg"
+    },
+    {
+      "Id": "/Users/apple/csharpprojects/myschoolmngapp/wwwroot/images/school2.jpg",
+      "PackagePath": "staticwebassets/images/school2.jpg"
+    },
+    {
+      "Id": "/Users/apple/csharpprojects/myschoolmngapp/wwwroot/images/site.webmanifest",
+      "PackagePath": "staticwebassets/images/site.webmanifest"
+    },
+    {
       "Id": "/Users/apple/csharpprojects/myschoolmngapp/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
